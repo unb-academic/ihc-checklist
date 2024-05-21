@@ -26,6 +26,7 @@ Integrantes
   Gabriel Moura     221008060  `@thegm445 <https://github.com/thegm445>`_
   Lucas Bottino     221008267  `@bottinolucas <https://github.com/bottinolucas>`_
   Pedro Vieira      190044055  `@Pedro-V8 <https://github.com/Pedro-V8>`_
+  Rodrigo Mattos    180108875  A definir
   ================  =========  ======================================================
 
 Árvore de Conteúdo

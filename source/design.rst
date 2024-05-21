@@ -1,11 +1,15 @@
 Design
 ======
 
-.. |check| raw:: html
+Ao projetar um sistema, é importante levar em consideração a experiência do
+usuário. Um sistema bem projetado é fácil de usar, fácil de entender e fácil
+de navegar. Um sistema mal projetado é difícil de usar, difícil de entender e
+difícil de navegar. Recomendamos o uso do `WCAG 2.1
+<https://www.w3.org/WAI/standards-guidelines/wcag/>`_, que é um conjunto de
+diretrizes para garantir que um sistema seja acessível para pessoas com
+deficiência.
 
-  <input checked=""  type="checkbox" style="transform: scale(1.3); margin-right: 4px;">
-
-|check| Componentes claros e intuitivos
+Componentes claros e intuitivos
 ---------------------------------------
 
 .. |text| raw:: html
@@ -16,13 +20,13 @@ Design
 
 .. |link| raw:: html
 
-  <button style="text-decoration: underline;">
+  <button class="underline">
     <span>Salvar</span>
   </button>
 
 .. |button| raw:: html
   
-    <button style="border: 1px solid black; padding: 1px 8px; border-radius: 4px; background-color: #edededcc; border-color: #d9d9d9;">
+    <button class="border rounded-sm" style="padding: 1px 5px;">
       <span>Salvar</span>
     </button>
 
@@ -40,7 +44,7 @@ deles é mais parecido com um botão?
 * |link|
 * |button|
 
-|check| Tema claro e escuro
+Tema claro e escuro
 ---------------------------
 
 Apesar de parecer um detalhe, a escolha de um tema claro ou escuro pode fazer
@@ -50,7 +54,7 @@ mais agradável para a leitura de textos longs ou para a visualização de
 imagens. Ninguém gosta de abrir um site no meio da noite e ser cegado por
 uma tela absolutamente branca.
 
-|check| Contraste
+Contraste
 -----------------
 
 O contraste é um dos fatores mais importantes para garantir que um sistema
@@ -63,7 +67,7 @@ Recomendamos o uso da regram 60-30-10 para garantir um contraste adequado
 entre os elementos do sistema. A regra 60-30-10 consiste em usar 60% de uma
 cor dominante, 30% de uma cor secundária e 10% de uma cor de destaque.
 
-|check| Tamanho da fonte
+Tamanho da fonte
 ------------------------
 
 O tamanho da fonte é outro fator importante para garantir que um sistema
@@ -73,7 +77,7 @@ pessoas com deficiência cognitiva. O tamanho da fonte também é importante
 para garantir que o sistema seja legível em diferentes dispositivos e
 resoluções de tela.
 
-|check| Espaçamento
+Espaçamento
 -------------------
 
 O espaçamento é outro fator importante para garantir que um sistema seja
