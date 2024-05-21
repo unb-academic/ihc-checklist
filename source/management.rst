@@ -14,3 +14,20 @@ importante para garantir que o projeto está atingindo seus objetivos e
 resultados esperados. É importante receber o feedback dos usuários e das partes
 interessadas para garantir que o projeto está atendendo às suas necessidades e
 expectativas.
+
+Iteração e Melhoria Contínua
+----------------------------
+
+A melhoria contínua é essencial para garantir que o projeto está sempre
+evoluindo e atendendo às necessidades dos usuários. É importante revisar
+regularmente o projeto e identificar áreas de melhoria. A iteração é uma
+ferramenta importante para garantir que o projeto está sempre evoluindo e
+atendendo às necessidades dos usuários.
+
+Análise de Impacto
+------------------
+
+A análise de impacto é uma ferramenta importante para avaliar o impacto do
+projeto sobre os usuários e as partes interessadas. É importante avaliar o
+impacto do projeto sobre os usuários e as partes interessadas para garantir que
+o projeto está atendendo às suas necessidades e expectativas.
