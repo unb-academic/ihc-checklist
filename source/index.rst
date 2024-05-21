@@ -37,3 +37,4 @@ Integrantes
 
   web
   design
+  management
